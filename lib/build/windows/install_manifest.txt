@@ -1,0 +1,9 @@
+C:/app_avengers_project/build/windows/runner/Debug/data/icudtl.dat
+C:/app_avengers_project/build/windows/runner/Debug/flutter_windows.dll
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/app_avengers_project/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

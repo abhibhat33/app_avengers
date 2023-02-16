@@ -1,0 +1,10 @@
+^C:\APP_AVENGERS_PROJECT\BUILD\WINDOWS\CMAKEFILES\E3696DDB7461D63F09CC5400BFE7E919\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

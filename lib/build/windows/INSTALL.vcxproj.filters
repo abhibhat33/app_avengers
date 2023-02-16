@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\app_avengers_project\build\windows\CMakeFiles\e3696ddb7461d63f09cc5400bfe7e919\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F3D4DC30-C3B3-3F1C-ABFE-71C17C012CCD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
